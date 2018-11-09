@@ -8,10 +8,17 @@
     "dev-server": "webpack-dev-server"
   },
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.11.1"
-  }
+  },
+  "repository": "git+https://github.com/Fumimofu/js-unit02-ch01-starter.git",
+  "author": "Fumi Kuranishi <kuranishi3221@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/Fumimofu/js-unit02-ch01-starter/issues"
+  },
+  "homepage": "https://github.com/Fumimofu/js-unit02-ch01-starter#readme",
+  "description": ""
 }
